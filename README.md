@@ -1,1 +1,1 @@
-# Fruit-Juice--UI-Project
+# FruitJuice-LandingPage

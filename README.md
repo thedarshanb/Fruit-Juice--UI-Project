@@ -18,6 +18,8 @@ A modern, responsive landing page for a fictional fruit juice brand. This projec
 - **Java Script** (Flexbox, gradients, transitions)
   ![Screenshot 2025-06-06 201500](https://github.com/user-attachments/assets/bfafe3ad-b15f-433b-93f2-5594cf03c4bb)
 
+## 🔹 Live Demo
 
+🚀 [Click here to Explore](https://thedarshanb.github.io/Futuristic-UI-Experience-Interactive-Project/)
 
 
